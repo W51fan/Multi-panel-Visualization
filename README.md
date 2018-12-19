@@ -24,6 +24,6 @@ npm run test
 ```
 npm run lint
 ```
-<img src="./static/img/demo.png" width=200 />
+<img src="./static/img/demo.png" width=800 />
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
