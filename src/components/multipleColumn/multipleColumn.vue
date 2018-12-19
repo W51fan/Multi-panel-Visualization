@@ -71,9 +71,9 @@ export default {
     this.myChart.setOption({
       // backgroundColor: "#344b58",
       title: {
-        text: "本年商场顾客男女人数统计",
-        subtext: "BY Wang Dingding",
-        x: "4%",
+        // text: "本年商场顾客男女人数统计",
+        // subtext: "BY Wang Dingding",
+        // x: "4%",
 
         textStyle: {
           color: "#fff",
